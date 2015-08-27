@@ -120,9 +120,16 @@
 * 가장 핫한 과일은?
 	* 천도복숭아♥
 		* from [dyeon](http://dyeon.net/post/1145746)
+* 반성문을 영어로 하면?
+	* 글로벌
+* 세상에서 가장 쉬운 숫자는?
+	* 190,000 (_쉽구만_)
+* 유럽인이 먹는 음식은?
+	* 이유식 (_EU喰_)
 
 ### Contributors
 ---
 * [MinJongHyeon](https://github.com/MinJongHyeon)
 * [devholic](https://github.com/devholic)
 * [KimDarren](https://github.com/KimDarren)
+* [MinJunKweon](https://github.com/MinJunKweon)
