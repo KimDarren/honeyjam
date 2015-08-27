@@ -90,8 +90,13 @@
   * 원통
 * 스님이 들어갈수 없는 대학교?
   * 중앙대학교
+* 소닉이 둘로 갈라지는 부분은?
+	* 손익분기점
+* 스티브잡스와 김정일의 공통점은?
+	* 이북 리더의 아버지
 
 ### Contributors
 ---
 * [MinJongHyeon](https://github.com/MinJongHyeon)
 * [devholic](https://github.com/devholic)
+* [KimDarren](https://github.com/KimDarren)
