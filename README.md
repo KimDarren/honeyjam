@@ -108,6 +108,18 @@
 	* 바람막이
 * 카톨릭 교도들이 가장 좋아하는 동물은?
 	* 고양이 (_Cat holic 이기 때문이다._)
+* 포도가 자기소개 할 때 하는 말은?
+	* 포도당♥
+		* from [dyeon](http://dyeon.net/post/1145412)
+* 딸기가 직장을 잃으면?
+	* 딸기시럽♥
+		* from [dyeon](http://dyeon.net/post/1145416)
+* 딸기가 도망가면?
+	* 딸기쨈♥
+		* from [dyeon](http://dyeon.net/post/1145729)
+* 가장 핫한 과일은?
+	* 천도복숭아♥
+		* from [dyeon](http://dyeon.net/post/1145746)
 
 ### Contributors
 ---
