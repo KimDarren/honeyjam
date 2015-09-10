@@ -154,7 +154,9 @@
 * 묵이 경찰에게 붙잡히면?
 	* 무기징역
 * 모자를 때리면?
-	* 캡쳐 
+	* 캡쳐
+* 미국 유명 여가수 _Ariana Grande_를 사이즈업해서 주문하면?
+	* Ariana Venti (_Grande의 다음사이즈는 Venti_) 
 
 ### Contributors
 ---
