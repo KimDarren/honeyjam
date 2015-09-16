@@ -156,7 +156,9 @@
 * 모자를 때리면?
 	* 캡쳐
 * 미국 유명 여가수 _Ariana Grande_를 사이즈업해서 주문하면?
-	* Ariana Venti (_Grande의 다음사이즈는 Venti_) 
+	* Ariana Venti (_Grande의 다음사이즈는 Venti_)
+* 소가 감전사 하면?
+	* 우사인볼트
 
 ### Contributors
 ---
