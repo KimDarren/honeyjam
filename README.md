@@ -159,6 +159,8 @@
 	* Ariana Venti (_Grande의 다음사이즈는 Venti_)
 * 소가 감전사 하면?
 	* 우사인볼트
+* 북한 사람이 공을 사면?
+	* 공산당 
 
 ### Contributors
 ---
