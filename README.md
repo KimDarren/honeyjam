@@ -196,7 +196,6 @@
 * 바닷가에서 하는 욕은?
     * 해수욕
 
-
 ### Contributors
 ---
 * [MinJongHyeon](https://github.com/MinJongHyeon)
