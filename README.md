@@ -198,11 +198,13 @@
 * 전국 노래자랑 MC가 송해 선생님인 이유는?
 	* **SONG**해
 * 용 중에 가장 존재감 없는 용은?
-	* 조용
+	* 조용(또는 무용)
+* 엘렌페이지가 여러명 있으면?
+	* 엘렌 북 
 
 ### Contributors
 ---
-* [MinJongHyeon](https://github.com/MinJongHyeon)
+* [alswhdgus10](https://github.com/alswhdgus10)
 * [devholic](https://github.com/devholic)
 * [KimDarren](https://github.com/KimDarren)
 * [MinJunKweon](https://github.com/MinJunKweon)
