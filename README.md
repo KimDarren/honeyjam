@@ -207,6 +207,8 @@
     * 꽈당! (_과당_, _fructose_)
 * 싸우면 매번 패배하는 설탕는?
     * 젖당 (_졌당_)
+* DJ DOC의 인기가 떨어진 이유는?
+	* DOC**X**가 나와서 (_Microsoft Word의 확장자가 DOC에서 DOCX로 바뀜_) 
 
 ### Contributors
 ---
